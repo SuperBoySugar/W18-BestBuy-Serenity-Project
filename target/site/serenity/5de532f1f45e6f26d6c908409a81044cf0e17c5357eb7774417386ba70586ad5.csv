@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores crud test","This will create a new store","SUCCESS","2023-06-03T23:03:58.294+01:00[Europe/London]","0.0","0.05"
+"Stores crud test","This will verify store was added","SUCCESS","2023-06-03T23:03:58.344+01:00[Europe/London]","0.0","0.02"
+"Stores crud test","This will update the service information","SUCCESS","2023-06-03T23:03:58.362+01:00[Europe/London]","0.0","0.03"

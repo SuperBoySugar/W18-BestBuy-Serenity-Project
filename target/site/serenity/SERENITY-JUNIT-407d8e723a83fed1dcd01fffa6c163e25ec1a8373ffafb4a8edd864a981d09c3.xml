@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.bestbuy.crudtest.StoresCrudTest" skipped="0" tests="4" time="0.13" timestamp="2023-06-03T23:03:58.294+01:00[Europe/London]"><testcase classname="com.bestbuy.crudtest.StoresCrudTest" name="This will create a new store"/><testcase classname="com.bestbuy.crudtest.StoresCrudTest" name="This will verify store was added"/><testcase classname="com.bestbuy.crudtest.StoresCrudTest" name="This will update the service information"/><testcase classname="com.bestbuy.crudtest.StoresCrudTest" name="This will delete the store by ID"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.crudtest.StoresCrudTest.test004(StoresCrudTest.java:65)&#13;
+</system-err></testcase></testsuite>

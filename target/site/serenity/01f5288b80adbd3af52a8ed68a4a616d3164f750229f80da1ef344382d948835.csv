@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products crud test","This will create new product","SUCCESS","2023-06-03T23:03:55.222+01:00[Europe/London]","0.0","2.27"
+"Products crud test","Verify Product was added","SUCCESS","2023-06-03T23:03:57.501+01:00[Europe/London]","0.0","0.03"
+"Products crud test","Verify Product was Updated","SUCCESS","2023-06-03T23:03:57.535+01:00[Europe/London]","0.0","0.04"
+"Products crud test","Verify product was deleted","SUCCESS","2023-06-03T23:03:57.577+01:00[Europe/London]","0.0","0.02"
+"Stores crud test","This will create a new store","SUCCESS","2023-06-03T23:03:58.294+01:00[Europe/London]","0.0","0.05"
+"Stores crud test","This will verify store was added","SUCCESS","2023-06-03T23:03:58.344+01:00[Europe/London]","0.0","0.02"
+"Stores crud test","This will update the service information","SUCCESS","2023-06-03T23:03:58.362+01:00[Europe/London]","0.0","0.03"

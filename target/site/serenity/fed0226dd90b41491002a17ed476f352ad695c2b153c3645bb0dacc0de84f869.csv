@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores crud test","This will delete the store by ID","FAILURE","2023-06-03T23:03:58.397+01:00[Europe/London]","0.0","0.03"
